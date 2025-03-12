@@ -16,7 +16,6 @@ coverage:
         # to codecov so that PR reviewers can see uncovered lines
         target: auto
         threshold: 1%
-
 codecov:
   notify:
     # Prevent coverage status to upload multiple times for parallel and long
