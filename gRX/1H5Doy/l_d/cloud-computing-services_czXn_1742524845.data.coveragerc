@@ -1,7 +1,6 @@
 [run]
 branch = True
 source =
-    ec2rlcore/
 
 [report]
 # Regexes for lines to exclude from consideration
