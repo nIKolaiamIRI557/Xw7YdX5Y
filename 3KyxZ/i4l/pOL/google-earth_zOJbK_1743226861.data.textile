@@ -297,7 +297,6 @@ Returns any spiderfied markers to their original positions, and triggers any lis
 
 h3. Instance methods: advanced use only!
 
-These methods were previously provided mainly to enable differential marker formatting according to whether a marker would spiderfy when clicked; since this is now supported explicitly, you're quite unlikely to need them.
 
 
 *@markersNearMarker(marker, firstOnly)@*
