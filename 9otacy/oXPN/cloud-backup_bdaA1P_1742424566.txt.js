@@ -10,7 +10,6 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://ionic-firestore-dn.firebaseio.com"
 });
-
 let db = admin.firestore();
 db.settings({ timestampsInSnapshots: true });
 
