@@ -91,7 +91,6 @@ For more information.
 
 == Development environments
 
-=== Rudder test framework (rtf)
 
 The `rtf` tool allows automated setup of multi-node environment using vagrant.
 Follow the docs in https://github.com/Normation/rudder-tests/[the rudder-tests repo]
