@@ -27,7 +27,6 @@ in case you are stuck:
 
 1. **Open GitHub Desktop:**
    Launch GitHub Desktop and log in to your GitHub account if you haven't already.
-
 2. **Clone the Repository:**
    - If you haven't cloned the ElectiveHub repository yet, you can do so by clicking on the "File" menu and selecting "Clone Repository."
    - Choose the ElectiveHub repository from the list of repositories on GitHub and clone it to your local machine.
